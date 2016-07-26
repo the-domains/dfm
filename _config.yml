@@ -1,0 +1,14 @@
+layout_spectrum: 0.5429058552253991
+typography_spectrum: 0.41357116494327784
+color:
+  brandStrength: 0.6174122809898108
+  lightness: 0.8560320988763124
+  saturation: 0.1755872550420463
+  rhythmicContrast: 0.99494110327214
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: dfm
